@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/frontend/employee_shift_management_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/employee_shift_management_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/employee_shift_management_ui/build" />
+    </content>
+  </component>
+</module>
